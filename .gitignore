@@ -2,17 +2,17 @@
 *.project
 
 # target
-/target/
+target
 
 #metadata
-/.metadata/
+*.metadata
 
 # Compiled class file
 *.class
 *.classpath
 
 #.settings
-/.settings/
+*.settings
 
 # Log file
 *.log
